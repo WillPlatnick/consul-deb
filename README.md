@@ -8,7 +8,7 @@ Usage
 
 Install the required dependencies (CentOS 6.6).
 
-    sudo yum install ruby-devel rubygems gcc rpm-build
+    sudo apt-get install ruby-dev ruby build-essential
     sudo gem install fpm
 
 Build the supported packages.
