@@ -8,5 +8,5 @@ then
   useradd -M $USER
 fi
 
-mkdir -p /var/consul
-chown $USER:$USER /var/consul
+mkdir -p /opt/consul
+chown -R $USER:$USER /opt/consul
