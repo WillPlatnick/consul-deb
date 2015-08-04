@@ -1,4 +1,4 @@
-/rootfs/usr/bin/consul
+/rootfs/usr/local/bin/consul
 /rootfs/usr/share/consul-ui
 /*.rpm
 /*.deb
